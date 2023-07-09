@@ -5,5 +5,4 @@ export type MENU = {
   link: string;
   title: string;
   icon: IconType;
-  isActive: boolean;
 };
